@@ -1,2 +1,2 @@
-# Basic CSS Website example 
+# Basic CSS Website 
 Learn the colors in Spanish!
